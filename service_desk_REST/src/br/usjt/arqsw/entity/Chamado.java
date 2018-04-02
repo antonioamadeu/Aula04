@@ -16,7 +16,7 @@ import javax.validation.constraints.Size;
 
 /**
  * 
- * @author Lucas Vinicius de Souza Costa 201516438
+ * @author Antônio Amadeu Freire Lucena 816117925 
  *
  */
 @Entity

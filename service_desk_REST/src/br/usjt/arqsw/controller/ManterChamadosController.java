@@ -19,7 +19,7 @@ import br.usjt.arqsw.service.FilaService;
 
 /**
  * 
- * @author Lucas Vinicius de Souza Costa 201516438
+ * @author Antônio Amadeu Freire Lucena 816117925
  *
  */
 
